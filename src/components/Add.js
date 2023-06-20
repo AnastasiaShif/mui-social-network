@@ -72,7 +72,7 @@ function Add() {
               src="https://images.pexels.com/photos/846741/pexels-photo-846741.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
               sx={{ width: 30, height: 30 }}
             />
-            <Typography fontWeight={700} variant="span">
+            <Typography fontWeight={500} variant="span">
               John Doe
             </Typography>
           </UserBox>
